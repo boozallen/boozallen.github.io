@@ -42,6 +42,14 @@ Established to enable our government clients to rapidly embrace open source soft
 </html>
 
 
+<html>
+  <div style="text-align: center;"> Think you might like to work for us?
+  </div>
+</html>
+
+**WE'RE A COMPANY THAT:**
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
