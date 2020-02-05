@@ -33,7 +33,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <html>
   <img src="Ashley-Porter-200x200.jpg">
   <img style="padding-left: 10px;">
-  <img align="left; top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> 
+  <img style="vertical-align: top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> 
   <img align="left"> <i> Software Engineer </i>
  </html>
  
