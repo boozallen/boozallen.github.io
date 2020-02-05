@@ -19,6 +19,15 @@ Developed to help organizations overcome obstacles to unlocking the power of the
 
 Established to enable our government clients to rapidly embrace open source software, this public license makes it easier for agencies to adopt open source and better protect assets and intellectual property.
 
+<html>
+   <head>
+     <title>hr tag with attributes</title>
+  </head>
+  <body>
+     <hr size="30">
+  </body>
+</html>
+     
 
 ## Get to know some of our developers
 
