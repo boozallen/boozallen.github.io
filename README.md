@@ -5,19 +5,24 @@ Innovate with Booz Allen using the same open source solutions we created to help
 Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our [GitHub organization](https://github.com/boozallen).
 
 
-### [Solutions Delivery Paltform](https://github.com/boozallen/sdp-pipeline-framework)
+### [SOLUTIONS DELIVERY PLATFORM](https://github.com/boozallen/sdp-pipeline-framework)
 
 This DevSecOps pipeline framework accelerates software development, so teams get things up and running in days rather than months. Automated and continuous security monitoring and testing lets developers focus on code and applications for pressing mission needs.
 
 
-### [Open Data Platform](https://github.com/boozallen/opendataplatform)
+### [OPEN DATA PLATFROM](https://github.com/boozallen/opendataplatform)
 
 Developed to help organizations overcome obstacles to unlocking the power of their data, this analytic environment provides access to insights across the enterprise. Deployment is fully automated and meets the highest levels of federal security requirements.
 
 
-### [Booz Allen Public License](http://boozallen.github.io/licenses/bapl)
+### [BOOZ ALLEN PUBLIC LICENSE](http://boozallen.github.io/licenses/bapl)
 
 Established to enable our government clients to rapidly embrace open source software, this public license makes it easier for agencies to adopt open source and better protect assets and intellectual property.
+
+
+## Get to know some of our developers
+
+
 
 
 ### Markdown
