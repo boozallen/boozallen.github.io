@@ -37,6 +37,10 @@ Established to enable our government clients to rapidly embrace open source soft
   <img align="left"> Software Engineer
  </html>
  
+ <html>
+  <img src="Ashley-Porter-200x200.jpg;" style="padding-left: 10px;" align="left"> <b> Ashley Porter</b>; align="left"> Software Engineer
+ </html>
+ 
  **[Ashley Porter](https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html)** _Software Engineer_
 
 
