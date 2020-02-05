@@ -26,7 +26,7 @@ Established to enable our government clients to rapidly embrace open source soft
      
 
 <html>
-  <div style="text-align: center;"> <b> Get to know some of our developers </b>
+  <div style="text-align: center;"> <b> <h2> Get to know some of our developers </h2> </b>
   </div>
 </html>
 
