@@ -46,10 +46,10 @@ Established to enable our government clients to rapidly embrace open source soft
  
  <div class="row">
   <div class="column">
-    <img src="Ashley-Porter-200x200.jpg" style="width:100%">
+    <img src="Ashley-Porter-200x200.jpg">
   </div>
   <div class="column">
-    <img src="Ben-Debebe-200x200.jpg" style="width:100%">
+    <img src="Ben-Debebe-200x200.jpg">
   </div>
 </div>
  
