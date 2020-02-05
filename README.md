@@ -25,7 +25,11 @@ Established to enable our government clients to rapidly embrace open source soft
 </html>
      
 
+<html>
+  <div style="text-align: center;">
 ## Get to know some of our developers
+  </div>
+</html>
 
 ![Image](Ashley-Porter-200x200.jpg) <html> <space> </html> **Ashley Porter** _Software Engineer_
 
