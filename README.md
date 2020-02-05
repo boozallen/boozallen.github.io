@@ -76,7 +76,7 @@ Established to enable our government clients to rapidly embrace open source soft
 
 
 <html>
-  <div style="text-align: center;"> Learn more about our open source philosophy here: 
+  <div style="text-align: center;"> <b> <h2> Learn more about our open source philosophy here: </h2> </b>
   </div>
 </html>
 
