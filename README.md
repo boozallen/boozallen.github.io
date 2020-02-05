@@ -3,6 +3,12 @@
 **Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our [GitHub organization](https://github.com/boozallen).**
 
 
+<html>
+  <div style="text-color: #263745;"> <h3> Think you might like to work for us? </h3>
+  </div>
+</html>
+
+
 ### [SOLUTIONS DELIVERY PLATFORM](https://github.com/boozallen/sdp-pipeline-framework)
 
 This DevSecOps pipeline framework accelerates software development, so teams get things up and running in days rather than months. Automated and continuous security monitoring and testing lets developers focus on code and applications for pressing mission needs.
