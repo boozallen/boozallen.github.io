@@ -30,9 +30,9 @@ Established to enable our government clients to rapidly embrace open source soft
   </div>
 </html>
 
-![Image](Ashley-Porter-200x200.jpg) **Ashley Porter** _Software Engineer_
+![Image](Ashley-Porter-200x200.jpg) **[Ashley Porter](https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html)** _Software Engineer_
 
-![Image](Ben-Debebe-200x200.jpg) **Ben Debebe** _Full Stack Developer_
+![Image](Ben-Debebe-200x200.jpg) **[Ben Debebe](https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html)** _Full Stack Developer_
 
 
 <html>
