@@ -28,7 +28,8 @@ Established to enable our government clients to rapidly embrace open source soft
 ## Get to know some of our developers
 
 **Ashley Porter**
-Software Engineer
+
+_Software Engineer_
 
 
 ### Markdown
