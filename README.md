@@ -3,11 +3,6 @@ clients—federal agencies and industry leaders—develop quickly and nimbly eno
 
 **Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our [GitHub organization](https://github.com/boozallen).**
 
-<html>
-  <body>
-    <spacer height="300">
-  </body>
-</html>
 
 ### [SOLUTIONS DELIVERY PLATFORM](https://github.com/boozallen/sdp-pipeline-framework)
 
