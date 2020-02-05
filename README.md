@@ -54,7 +54,7 @@ Established to enable our government clients to rapidly embrace open source soft
 - Forges dynamic partnerships with industry leaders
 - Helps Clients advance goals and missons of global importance
 
-**[Head to our careers page](https://careers.boozallen.com/teams/digital)to learn more and explore current openings.**
+**[Head to our careers page](https://careers.boozallen.com/teams/digital) to learn more and explore current openings.**
 
 
 <html>
