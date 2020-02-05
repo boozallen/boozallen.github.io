@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Booz Allen Open Source
 description:  
 
-button: {
+button:
   background-color: #076D75; /* Teal */
   border: none;
   color: white;
@@ -11,4 +11,3 @@ button: {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-}
