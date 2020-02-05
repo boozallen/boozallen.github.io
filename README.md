@@ -30,7 +30,7 @@ Established to enable our government clients to rapidly embrace open source soft
   </div>
 </html>
 
-![Image](Ashley-Porter-200x200.jpg) <html> <space> </html> **Ashley Porter** _Software Engineer_
+![Image](Ashley-Porter-200x200.jpg) **Ashley Porter** _Software Engineer_
 
 ![Image](Ben-Debebe-200x200.jpg) **Ben Debebe** _Full Stack Developer_
 
