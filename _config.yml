@@ -2,6 +2,21 @@ theme: jekyll-theme-cayman
 title: Booz Allen Open Source
 description:  
 
+body:
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #57575a;
+  background: #fff;
+  height: 100%;
+  position: relative;
+  background-image:url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+
+
 button:
   background-color: #076D75; /* Teal */
   border: none;
