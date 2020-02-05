@@ -45,6 +45,11 @@ Established to enable our government clients to rapidly embrace open source soft
   <img align="left"> <i> Full Stack Developer </i>
  </html>
 
+<html>
+  <body>
+     <hr size="30">
+  </body>
+</html>
 
 <html>
   <img src="Ashley-Porter-200x200.jpg">
