@@ -49,6 +49,20 @@ Established to enable our government clients to rapidly embrace open source soft
 
 **WE'RE A COMPANY THAT:**
 
+-Encourages bold thinking 
+-Grows talent and nurtures innovation 
+-Forges dynamic partnerships with industry leaders
+-Helps Clients advance goals and missons of global importance
+
+**[Head to our careers page](https://careers.boozallen.com/teams/digital)to learn more and explore current openings.**
+
+
+<html>
+  <body>
+     <hr size="30">
+  </body>
+</html>
+
 
 ### Markdown
 
