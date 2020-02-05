@@ -10,6 +10,16 @@ Start building with a couple of our bedrock solutions or check out our public li
 This DevSecOps pipeline framework accelerates software development, so teams get things up and running in days rather than months. Automated and continuous security monitoring and testing lets developers focus on code and applications for pressing mission needs.
 
 
+### [Open Data Platform](https://github.com/boozallen/opendataplatform)
+
+Developed to help organizations overcome obstacles to unlocking the power of their data, this analytic environment provides access to insights across the enterprise. Deployment is fully automated and meets the highest levels of federal security requirements.
+
+
+### [Booz Allen Public License](http://boozallen.github.io/licenses/bapl)
+
+Established to enable our government clients to rapidly embrace open source software, this public license makes it easier for agencies to adopt open source and better protect assets and intellectual property.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
