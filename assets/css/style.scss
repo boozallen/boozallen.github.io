@@ -10,7 +10,7 @@ body {
   font-size: 22px;
   line-height: 1.5;
   color: #57575a;
-  background: #fff;
+  background: #f4f4f4;
   height: 100%;
   position: relative;
   background-image: url(iStock-1055056612-edited-flipped.jpg);
@@ -19,7 +19,18 @@ body {
   background-position: fixed;
 }
 
-h1, h2, h3 {
+
+h1 {
+  color: #FFFFFF;
+  font-family: "Oswald", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 20px 0 15px 0;
+}
+
+
+h2, h3 {
   color: #263745;
   font-family: "Oswald", Arial, sans-serif;
   font-weight: 400;
