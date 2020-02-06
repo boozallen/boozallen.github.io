@@ -100,7 +100,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <br>
 
 <html>
-  <div style="text-align: center;"> <b> <a href="https://careers.boozallen.com/teams/digital"target="_blank">Head to our careers page</a> to learn more and explore current openings. </b>
+  <div style="text-align: center;"> <b> <a href="https://careers.boozallen.com/teams/digital">Head to our careers page</a> to learn more and explore current openings. </b>
 
 <br>
 <br>
@@ -120,7 +120,7 @@ Established to enable our government clients to rapidly embrace open source soft
 
 
 <html>
-  <button onclick="window.location.href = 'https://www.boozallen.com/expertise/digital-solutions/open-source.html';"target="_blank">Visit Booz Allen Open Source</button>
+  <button onclick="window.location.href = 'https://www.boozallen.com/expertise/digital-solutions/open-source.html';">Visit Booz Allen Open Source</button>
 </html>
 
 <br>
