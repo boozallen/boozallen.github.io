@@ -81,7 +81,7 @@ hr {
 .hero {
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 60vh;
 }
 .hero::before {
     content: "";
@@ -89,7 +89,7 @@ hr {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 60%;
     background: url(iStock-1055056612-edited-flipped.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,7 +103,7 @@ hr {
 .hero {
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
