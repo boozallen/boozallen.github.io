@@ -73,6 +73,7 @@ Established to enable our government clients to rapidly embrace open source soft
   <img align="left; top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html">Ben Debebe</a> </b> 
  </html>
 
+<br>
 
 <html>
   <body>
@@ -80,22 +81,30 @@ Established to enable our government clients to rapidly embrace open source soft
   </body>
 </html>
 
+<br>
 
 <html>
   <div style="text-align: center;"> <b> <h2> Think you might like to work for us? </h2> </b>
   </div>
 </html>
 
+<br>
+
 **WE'RE A COMPANY THAT:**
+
+<br>
 
 - Encourages bold thinking 
 - Grows talent and nurtures innovation 
 - Forges dynamic partnerships with industry leaders
 - Helps Clients advance goals and missons of global importance
 
+<br>
+
 <html>
   <div style="text-align: center;"> <b> <a href="https://careers.boozallen.com/teams/digital">Head to our careers page</a> to learn more and explore current openings. </b>
 
+<br>
 
 <html>
   <body>
@@ -103,12 +112,18 @@ Established to enable our government clients to rapidly embrace open source soft
   </body>
 </html>
 
+<br>
 
 <html>
   <div style="text-align: center;"> <b> <h2> Learn more about our open source philosophy here: </h2> </b>
   </div>
 </html>
 
+<br>
+
 <html>
   <button type="button">Visit Booz Allen Open Source</button>
 </html>
+
+<br>
+
