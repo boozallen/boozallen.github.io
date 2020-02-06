@@ -118,7 +118,6 @@ Established to enable our government clients to rapidly embrace open source soft
   </div>
 </html>
 
-<br>
 
 <html>
   <button type="button">Visit Booz Allen Open Source</button>
