@@ -123,6 +123,10 @@ Established to enable our government clients to rapidly embrace open source soft
   <button type="button">Visit Booz Allen Open Source</button>
 </html>
 
+<html>
+  <button onclick="https://www.boozallen.com/expertise/digital-solutions/open-source.html';">Visit Booz Allen Open Source</button>
+</html>
+
 <br>
 <br>
 
