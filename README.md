@@ -18,6 +18,7 @@ Developed to help organizations overcome obstacles to unlocking the power of the
 
 Established to enable our government clients to rapidly embrace open source software, this public license makes it easier for agencies to adopt open source and better protect assets and intellectual property.
 
+<br>
 
 <html>
   <body>
@@ -25,6 +26,7 @@ Established to enable our government clients to rapidly embrace open source soft
   </body>
 </html>
      
+<br>     
 
 <html>
   <div style="text-align: center;"> <b> <h2> Get to know some of our developers </h2> </b>
