@@ -92,8 +92,6 @@ Established to enable our government clients to rapidly embrace open source soft
 
 **WE'RE A COMPANY THAT:**
 
-<br>
-
 - Encourages bold thinking 
 - Grows talent and nurtures innovation 
 - Forges dynamic partnerships with industry leaders
@@ -104,6 +102,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <html>
   <div style="text-align: center;"> <b> <a href="https://careers.boozallen.com/teams/digital">Head to our careers page</a> to learn more and explore current openings. </b>
 
+<br>
 <br>
 
 <html>
@@ -125,5 +124,6 @@ Established to enable our government clients to rapidly embrace open source soft
   <button type="button">Visit Booz Allen Open Source</button>
 </html>
 
+<br>
 <br>
 
