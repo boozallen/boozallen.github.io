@@ -120,7 +120,7 @@ Established to enable our government clients to rapidly embrace open source soft
 
 
 <html>
-  <button onclick="window.location.href = 'https://www.boozallen.com/expertise/digital-solutions/open-source.html';">Visit Booz Allen Open Source</button>
+  <button onclick="window.location.href = 'https://www.boozallen.com/expertise/digital-solutions/open-source.html';" target="_blank">Visit Booz Allen Open Source</button>
 </html>
 
 <br>
