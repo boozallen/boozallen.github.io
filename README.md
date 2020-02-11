@@ -51,7 +51,6 @@ Established to enable our government clients to rapidly embrace open source soft
 </html>
 
 <br>
-<br>
 
 <html>
   <body>
