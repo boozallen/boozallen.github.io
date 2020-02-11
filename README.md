@@ -7,19 +7,19 @@
 <br>
 
 <div>
-<h3> <a href="https://github.com/boozallen/sdp-pipeline-framework">SOLUTIONS DELIVERY PLATFORM</a> </h3>
+<h3> <a href="https://github.com/boozallen/sdp-pipeline-framework" target="_blank">SOLUTIONS DELIVERY PLATFORM</a> </h3>
 </div>
   
 This DevSecOps pipeline framework accelerates software development, so teams get things up and running in days rather than months. Automated and continuous security monitoring and testing lets developers focus on code and applications for pressing mission needs.
 
 <div>
-<h3> <a href="https://github.com/boozallen/opendataplatform">OPEN DATA PLATFROM</a> </h3>
+<h3> <a href="https://github.com/boozallen/opendataplatform" target="_blank">OPEN DATA PLATFROM</a> </h3>
 </div>
 
 Developed to help organizations overcome obstacles to unlocking the power of their data, this analytic environment provides access to insights across the enterprise. Deployment is fully automated and meets the highest levels of federal security requirements.
 
 <div>
-<h3> <a href="http://boozallen.github.io/licenses/bapl">BOOZ ALLEN PUBLIC LICENSE</a> </h3>
+<h3> <a href="http://boozallen.github.io/licenses/bapl" target="_blank">BOOZ ALLEN PUBLIC LICENSE</a> </h3>
 </div>
 
 Established to enable our government clients to rapidly embrace open source software, this public license makes it easier for agencies to adopt open source and better protect assets and intellectual property.
@@ -127,7 +127,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <br>
 
 <html>
-  <button onclick="window.location.href = 'https://www.boozallen.com/expertise/digital-solutions/open-source.html';" target="_blank">Visit Booz Allen Open Source</button>
+  <button onclick="window.location.href = 'https://www.boozallen.com/expertise/digital-solutions/open-source.html" target="_blank">Visit Booz Allen Open Source</button>
 </html>
 
 <br>
