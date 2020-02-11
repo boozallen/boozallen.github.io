@@ -76,7 +76,7 @@ Established to enable our government clients to rapidly embrace open source soft
 
 <br>
 
-**WE'RE A COMPANY THAT:**
+<b>WE'RE A COMPANY THAT:</b>
 
 - Encourages bold thinking 
 - Grows talent and nurtures innovation 
