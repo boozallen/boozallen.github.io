@@ -121,20 +121,20 @@ html{
   background-color:#eee;
 }
 .container{
-  margin: 20px auto;
+  margin: 40px auto;
   width:400px;
   height:400px;
-  background-color:#fff;
+  background-color:#f4f4f4;
   display:grid;
   grid-template-columns: 200px 200px;
   grid-row: auto auto;
-  grid-column-gap: 20px;
-  grid-row-gap: 20px;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
   .box{
-    background-color:#333;
-    padding:20px;
-    border-radius:10px;
-    color:#fff;
+    background-color:#f4f4f4;
+    padding:40px;
+    border-radius:0px;
+    color:#f4f4f4;
     display:flex;
     align-items:center;
     justify-content:center;
