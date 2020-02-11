@@ -43,9 +43,9 @@ Established to enable our government clients to rapidly embrace open source soft
 
 
 <div class="container">
-  <div class="box">A</div>
+  <div class="box"> <img src="Ashley-Porter-200x200.jpg"> </div>
   <div class="box">B</div>
-  <div class="box">C</div>
+  <div class="box"> <img src="Ben-Debebe-200x200.jpg"> </div>
   <div class="box">D</div>
 </div>
 
