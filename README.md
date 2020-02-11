@@ -48,11 +48,11 @@ Established to enable our government clients to rapidly embrace open source soft
 
  <html>
   <img src="Ben-Debebe-200x200.jpg">
+  <img style="padding-left: 50px;">
  </html>
 
 <html>
 <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> 
-<hspace="150">
 </html>
 
 <br>
