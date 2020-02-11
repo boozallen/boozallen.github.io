@@ -56,6 +56,7 @@ Established to enable our government clients to rapidly embrace open source soft
   <text style="padding-left: 100px;">
 
 <b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html" target="_blank">Ben Debebe</a> </b> 
+</html>
 
 <br>
 
