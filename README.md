@@ -52,7 +52,8 @@ Established to enable our government clients to rapidly embrace open source soft
  </html>
 
 <html>
-<b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html" target="_blank">Ashley Porter</a> </b> 
+<b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html" target="_blank">Ashley Porter</a> </b>
+  <text style="padding-left: 100px;">
 </html>
 
 <html>
