@@ -38,14 +38,6 @@ Established to enable our government clients to rapidly embrace open source soft
 <br>
 
 
-<div class="row">
-  <div class="column"> <img src="Ashley-Porter-200x200.jpg"> </div>
-  <div class="column"> <p> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> </p> <p> <i> Software Engineer </i> </div>
-  <div class="column"> <img src="Ben-Debebe-200x200.jpg"> </div>
-  <div class="column"> <p> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html">Ben Debebe</a> </b> </p> <p> <i> Full Stack Developer </i> </div>
-</div>
-
-
 <html>
   <img src="Ashley-Porter-200x200.jpg">
   <img style="padding-left: 10px;">
