@@ -43,7 +43,7 @@ Established to enable our government clients to rapidly embrace open source soft
 
 <html>
   <img src="Ashley-Porter-200x200.jpg" hspace="150">
-  <img style="padding-left: 35px;">
+  <img style="padding-left: 25px;">
  </html>
 
  <html>
