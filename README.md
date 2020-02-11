@@ -50,43 +50,6 @@ Established to enable our government clients to rapidly embrace open source soft
 </div>
 
 
-<html>
-  <img src="Ashley-Porter-200x200.jpg">
-  <img style="padding-left: 10px;">
-  <img align="vertical-align: text-top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> 
-  <img align="left"> <i> Software Engineer </i>
- </html>
-
- 
- <html>
-  <img src="Ben-Debebe-200x200.jpg">
-  <img style="padding-left: 10px;">
-  <img align="left; top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html">Ben Debebe</a> </b> 
-  <img align="left"> <i> Full Stack Developer </i>
- </html>
-
-<br>
-
-<html>
-  <body>
-     <hr size="30">
-  </body>
-</html>
-
-
-<html>
-  <img src="Ashley-Porter-200x200.jpg">
-  <img style="padding-left: 10px;">
-  <img align="vertical-align: text-top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b>
- </html>
- 
- 
- <html>
-  <img src="Ben-Debebe-200x200.jpg">
-  <img style="padding-left: 10px;">
-  <img align="left; top"> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html">Ben Debebe</a> </b> 
- </html>
-
 <br>
 
 <html>
