@@ -39,8 +39,6 @@ Established to enable our government clients to rapidly embrace open source soft
   </div>
 </html>
 
-<br>
-
 
 <div class="container">
   <div class="box"> <img src="Ashley-Porter-200x200.jpg"> </div>
