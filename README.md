@@ -9,10 +9,6 @@
 <div>
 <h3> <a href="https://github.com/boozallen/sdp-pipeline-framework">SOLUTIONS DELIVERY PLATFORM</a> </h3>
 </div>
-
-<div>
-<h3> SOLUTIONS DELIVERY PLATFORM </h3>
-</div>
   
 This DevSecOps pipeline framework accelerates software development, so teams get things up and running in days rather than months. Automated and continuous security monitoring and testing lets developers focus on code and applications for pressing mission needs.
 
