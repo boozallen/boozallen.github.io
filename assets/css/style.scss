@@ -122,11 +122,11 @@ html{
 }
 .container{
   margin: 20px auto;
-  width:200px;
-  height:200px;
+  width:400px;
+  height:400px;
   background-color:#f4f4f4;
   display:grid;
-  grid-template-columns: 400px 400px;
+  grid-template-columns: 200px 200px;
   grid-row: auto auto;
   grid-column-gap: 40px;
   grid-row-gap: 10px;
