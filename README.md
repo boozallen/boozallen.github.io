@@ -42,12 +42,12 @@ Established to enable our government clients to rapidly embrace open source soft
 <br>
 
 
-<section>
-  <span class="alive cell-2"></span>
-  <span class="dead cell-2"></span>
-  <span class="dead cell-2"></span>
-  <span class="alive cell-2"></span>
-</section>
+<div class="container">
+  <div class="box">A</div>
+  <div class="box">B</div>
+  <div class="box">C</div>
+  <div class="box">D</div>
+</div>
 
 
 <html>
