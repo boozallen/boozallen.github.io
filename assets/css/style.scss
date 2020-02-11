@@ -110,24 +110,14 @@ hr {
 }
 
 
-.container {
-  display: flex; 
-  flex-wrap: wrap;
+.column {
+  float: left;
+  width: 25%;
 }
 
-.cell {
-  flex-grow: 0.25;
-  border: 1px #f4f4f4;
-}
-
-@media (max-width: 720px) {
-  .cell {
-    width: calc(50% - 2px)
-  }
-}
-
-@media (max-width: 360px) {
-  .cell {
-    width: calc(100% - 2px)
-  }
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
