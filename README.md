@@ -2,7 +2,7 @@
 
 **Innovate with Booz Allen using the same open source solutions we created to help our clients—federal agencies and industry leaders—develop quickly and nimbly enough to keep pace with a rapidly changing world.**
 
-**Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our [GitHub organization](https://github.com/boozallen).**
+**Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our [GitHub organization](https://github.com/boozallen).** <a href="https://github.com/boozallen" target="_blank">GitHub organization</a>.
 
 <br>
 
@@ -52,11 +52,11 @@ Established to enable our government clients to rapidly embrace open source soft
  </html>
 
 <html>
-<b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> 
+<b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html" target="_blank">Ashley Porter</a> </b> 
 </html>
 
 <html>
-<b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html">                  Ben Debebe</a> </b> 
+<b> <a href="https://www.boozallen.com/e/insight/people-profiles/ben-debebe-transforms-data-with-ai.html" target="_blank">                  Ben Debebe</a> </b> 
 </html>
 
 <br>
