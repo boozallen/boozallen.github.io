@@ -7,7 +7,7 @@
 <br>
 
 <div>
-<h3> <b> <a href="https://github.com/boozallen/sdp-pipeline-framework">SOLUTIONS DELIVERY PLATFORM</a> </b> </h3>
+<h3> <a href="https://github.com/boozallen/sdp-pipeline-framework">SOLUTIONS DELIVERY PLATFORM</a> </h3>
 </div>
   
 ### [SOLUTIONS DELIVERY PLATFORM](https://github.com/boozallen/sdp-pipeline-framework)
