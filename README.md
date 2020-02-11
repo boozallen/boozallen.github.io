@@ -39,14 +39,15 @@ Established to enable our government clients to rapidly embrace open source soft
   </div>
 </html>
 
+<br>
+
 <html>
   <img src="Ashley-Porter-200x200.jpg">
-  <img style="padding-left: 30px;">
+  <img style="padding-left: 50px;">
  </html>
 
  <html>
   <img src="Ben-Debebe-200x200.jpg">
-  <img style="padding-left: 10px;">
  </html>
 
 <br>
