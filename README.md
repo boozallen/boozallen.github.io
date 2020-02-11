@@ -2,7 +2,7 @@
 
 **Innovate with Booz Allen using the same open source solutions we created to help our clients—federal agencies and industry leaders—develop quickly and nimbly enough to keep pace with a rapidly changing world.**
 
-**Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our [GitHub organization](https://github.com/boozallen).** <b> <a href="https://github.com/boozallen" target="_blank">GitHub organization</a>.</b>
+**Start building with a couple of our bedrock solutions or check out our public license below. For a full list of the open source technologies we’re proud to share with the larger coding community, head to our <b> <a href="https://github.com/boozallen" target="_blank">GitHub organization</a>.</b>
 
 <br>
 
