@@ -79,10 +79,10 @@ Established to enable our government clients to rapidly embrace open source soft
 <b>WE'RE A COMPANY THAT:</b>
 
 <ul>
-<li>Encourages bold thinking<li>
-<li>Grows talent and nurtures innovation<li>
-<li>Forges dynamic partnerships with industry leaders<li>
-<li>Helps Clients advance goals and missons of global importance<li>
+<li>Encourages bold thinking
+<li>Grows talent and nurtures innovation
+<li>Forges dynamic partnerships with industry leaders
+<li>Helps Clients advance goals and missons of global importance
 <ul>
 
 <br>
