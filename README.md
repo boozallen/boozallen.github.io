@@ -44,8 +44,8 @@ Established to enable our government clients to rapidly embrace open source soft
 
 <div class="container">
   <div class="box"> <img src="Ashley-Porter-200x200.jpg"> </div>
-  <div class="box">B</div>
   <div class="box"> <img src="Ben-Debebe-200x200.jpg"> </div>
+  <div class="box"> <p> <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html">Ashley Porter</a> </b> </p> <p> <i> Software Engineer </i> </p> </div>
   <div class="box">D</div>
 </div>
 
