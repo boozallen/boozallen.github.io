@@ -62,9 +62,9 @@ Established to enable our government clients to rapidly embrace open source soft
 <div>
 <html>
   <center>
-    <text style="padding-left: 75px;">
+    <text style="padding-left: 80px;">
     <i> Software Engineer </i>
-    <text style="padding-left: 275px;">
+    <text style="padding-left: 225px;">
     <i> Full Stack Developer </i>
 
 
