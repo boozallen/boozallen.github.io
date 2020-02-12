@@ -52,7 +52,6 @@ Established to enable our government clients to rapidly embrace open source soft
  </html>
 
 <html>
-<p>  
 <b> <a href="https://www.boozallen.com/e/insight/people-profiles/spotlight-on-ashley-porter-software-engineer.html" target="_blank">Ashley Porter</a> </b>
   <text style="padding-left: 275px;">
 
@@ -65,7 +64,6 @@ Established to enable our government clients to rapidly embrace open source soft
 <text style="padding-left: 275px;">
 <i> Full Stack Developer </i>
 
-</p>
 
 <br>
 <br>
