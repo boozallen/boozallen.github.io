@@ -62,6 +62,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <div>
 <html>
   <center>
+    <text style="padding-left: 75px;">
     <i> Software Engineer </i>
     <text style="padding-left: 275px;">
     <i> Full Stack Developer </i>
@@ -89,6 +90,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <b>WE'RE A COMPANY THAT:</b>
 
 <ul>
+  <p align="left">
 <li>Encourages bold thinking
 <li>Grows talent and nurtures innovation
 <li>Forges dynamic partnerships with industry leaders
