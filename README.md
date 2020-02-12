@@ -13,7 +13,7 @@
 This DevSecOps pipeline framework accelerates software development, so teams get things up and running in days rather than months. Automated and continuous security monitoring and testing lets developers focus on code and applications for pressing mission needs.
 
 <div>
-<h3> <a href="https://github.com/boozallen/opendataplatform" target="_blank">OPEN DATA PLATFROM</a> </h3>
+<h3> <a href="https://github.com/boozallen/opendataplatform" target="_blank">OPEN DATA PLATFORM</a> </h3>
 </div>
 
 Developed to help organizations overcome obstacles to unlocking the power of their data, this analytic environment provides access to insights across the enterprise. Deployment is fully automated and meets the highest levels of federal security requirements.
