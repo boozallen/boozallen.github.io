@@ -85,6 +85,7 @@ Established to enable our government clients to rapidly embrace open source soft
 
 <br>
 
+<p align="right">
 <b>WE'RE A COMPANY THAT:</b>
 
 <ul>
@@ -93,6 +94,7 @@ Established to enable our government clients to rapidly embrace open source soft
 <li>Forges dynamic partnerships with industry leaders
 <li>Helps Clients advance goals and missons of global importance
 <ul>
+  </p>  
 
 <br>
 
