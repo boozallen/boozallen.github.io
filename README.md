@@ -19,7 +19,7 @@ This DevSecOps pipeline framework accelerates software development, so teams get
 Developed to help organizations overcome obstacles to unlocking the power of their data, this analytic environment provides access to insights across the enterprise. Deployment is fully automated and meets the highest levels of federal security requirements.
 
 <div>
-<h3> <a href="http://boozallen.github.io/licenses/bapl" target="_blank">BOOZ ALLEN PUBLIC LICENSE</a> </h3>
+<h3> <a href="https://github.com/boozallen/Public-License/blob/master/LICENSE.md" target="_blank">BOOZ ALLEN PUBLIC LICENSE</a> </h3>
 </div>
 
 Established to enable our government clients to rapidly embrace open source software, this public license makes it easier for agencies to adopt open source and better protect assets and intellectual property.
